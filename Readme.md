@@ -1,6 +1,6 @@
 # <span style="color:orange">**Loan Deserving Prediction**</span>
 
-![Wine Quality](ln.png)
+![Loan Deserving](ln.png)
 
 ***
 
